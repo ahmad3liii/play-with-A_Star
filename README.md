@@ -1,6 +1,6 @@
 # A* Pathfinding Visualizer 🚀
 
-A sleek and interactive Flutter application that visualizes the **A* Search Algorithm** in real-time. This project demonstrates the implementation of heuristic-based pathfinding, state management in Flutter, and custom data structures like Priority Queues.
+A sleek and interactive Flutter application that visualizes the **A_Star Search Algorithm** in real-time. This project demonstrates the implementation of heuristic-based pathfinding, state management in Flutter, and custom data structures like Priority Queues.
 
 ## 📌 Features
 * **Interactive Grid:** Select custom start and goal points on a 6x6 grid.
